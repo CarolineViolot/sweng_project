@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bootcamp</string>
+    <string name="textview">TextView</string>
+    <string name="greeting_message">Good morning %s!</string>
+    <string name="greeting">Greeting</string>
+    <string name="name">Name</string>
+    <string name="use_gps_location">Use GPS Location</string>
+    <string name="city">City</string>
+    <string name="weather_query_forecast">FORECAST</string>
+    <string name="weather_forecast_after_tomorrow">In two days</string>
+    <string name="weather_forecast_tomorrow">Tomorrow</string>
+    <string name="weather_forecast_today">Today</string>
+    <string name="weather_temperature_label">Temperatures</string>
+    <string name="weather_min_temperature_label">Min</string>
+    <string name="weather_temperature_default">-</string>
+    <string name="weather_avg_temperature_label">Avg</string>
+    <string name="weather_max_temperature_label">Max</string>
+    <string name="weather_condition_default">-</string>
+    <string name="weather_use_gps">Use GPS Location</string>
+    <string name="weather_city_label">City</string>
+    <string name="weather_iconurl_format">http://openweathermap.org/img/wn/%s@2x.png</string>
+</resources>
